@@ -1,0 +1,37 @@
+_repo: Everybody-knows-Joe_72485
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kornbluth, C. M. (Cyril M.)
+    aliases:
+    - Kornbluth, Cyril M.
+    - Eisner, Simon
+    - Cooke, Arthur
+    - Kornbluth, C.M.
+    birthdate: 1923
+    deathdate: 1958
+    gutenberg_agent_id: '34039'
+    url: http://www.gutenberg.org/2009/agents/34039
+    wikipedia: https://en.wikipedia.org/wiki/Cyril_M._Kornbluth
+description: ''
+gutenberg_issued: '2023-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72485'
+language: en
+pgterms:marc905: 20231216035057kornbluth
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+title: Everybody knows Joe
+url: http://www.gutenberg.org/ebooks/72485
